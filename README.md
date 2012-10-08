@@ -6,7 +6,7 @@ A Perl script to check if two permutations act on a set of N letters equivalentl
 Usage
 =====
 
-<code>
+```perl
 my $n = 4;
 my @student = [ ( 1, 3), (2, 4) ];
 my @answer = [ (2, 4), (1, 3) ];
@@ -18,7 +18,7 @@ if ( $result ) {
 } else {
   print "Wrong answer", "\n";
 }
-</code>
+```
 
 License
 =======
