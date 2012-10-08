@@ -4,10 +4,6 @@
 use warnings;
 use strict;
 
-my $n;
-my @set;
-my @perm;
-
 sub cycle_to_trans {
     
     my @cycle = @_;
