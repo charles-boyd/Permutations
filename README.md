@@ -26,10 +26,11 @@ if ( $result ) {
 } else {
   print "Wrong answer", "\n";
 }
-
+</code>
 
 License
 =======
+<blockquote>
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -651,3 +652,4 @@ Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
+</blockquote>
